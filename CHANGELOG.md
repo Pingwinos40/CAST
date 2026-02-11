@@ -2,21 +2,20 @@
 
 All notable changes to this fork are documented here.
 
-## [Unreleased]
+## [1.0.0-gogoj] - 2026-02-11
 
 ### Added
 - CHANGELOG.md and FORK_NOTES.md
+- AI_ATTRIBUTION.md
 - Project board for task tracking
+- README.md
 
 ### Changed
 - Repository name from "Maasi" to "CAST"
-- Updated README with fork information
+- Updated new README with fork information
+- Archived original README.md to README_UPSTREAM.md
 
----
-
-## [1.0.0-Gogoj] - 2026-02-10
-
-**Upstream Fork Point**
+## Upstream Fork Point
 
 - Repository: https://github.com/klotzsch-lab/Maasi
 - Commit: `16d2dbce93c17c41b29e9813b1a98a6f61958f19`
