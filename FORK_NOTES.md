@@ -25,7 +25,7 @@ This is a continuation of the [Maasi open-source spin coater](https://github.com
 
 ## Phases from Upstream
 
-### Phase 1: Reproducibility
+### Phase 1: Reproducibility / Hardware Modernization
 
 ### Phase 2: Control Improvements
 
@@ -41,8 +41,8 @@ This is a continuation of the [Maasi open-source spin coater](https://github.com
 - General motor / driver selection approach
 
 **What We're Changing:**
+- Hardware modernization
 - Documentation quality and completeness
-- Control algorithms
 - Software UI/UX improvements
 - Calibration and metrology procedures
 
@@ -50,6 +50,10 @@ This is a continuation of the [Maasi open-source spin coater](https://github.com
 - Recipe library for common DEA materials
 - Validation data and repeatability metrics
 - Integration notes for microfab workflows
+- Closed-loop control
+
+
+
 
 ## Upstream Attribution
 
