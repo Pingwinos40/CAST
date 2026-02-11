@@ -64,9 +64,9 @@ This project is derived from Maasi v1.0 (commit `16d2dbce93c17c41b29e9813b1a98a6
 - Willi Weber
 - [Enrico Klotzsch](https://www.biologie.hu-berlin.de/en/groupsites/jpexpbp/members/Enrico_Klotzsch)
 
-**Original License:** GNU GENERAL PUBLIC LICENSE v3.0
+**Original License:** GNU GENERAL PUBLIC LICENSE v3.0  
 **Fork Maintainer:** Anatol Gogoj, UConn  
-**Contact:** https://github.com/Pingwinos40
+**Contact:** https://github.com/Pingwinos40  
 
 ## Citation
 
