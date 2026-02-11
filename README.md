@@ -33,4 +33,4 @@ Original Maasi and current CAST license: [GNU General Public License v3](LICENSE
 ## Contact
 
 Issues: [Github Issues](https://github.com/Pingwinos40/CAST/issues)
-Maintainer: Anatol Gogoj, anatol.gogoj@uconn.edu / @gmail.com
+Maintainer: Anatol Gogoj, anatol.gogoj@uconn.edu / anatol.gogoj@gmail.com
