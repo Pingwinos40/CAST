@@ -3,7 +3,7 @@
 Generative AI tools were used during development of this fork:
 
 **Tools Used:**
-- Claude Sonnet 4.5 (Anthropic)
+- Claude Sonnet 4.5 & 4.6 (Anthropic)
 - Claude Opus 4.6 (Anthropic)
 
 **Usage:**
